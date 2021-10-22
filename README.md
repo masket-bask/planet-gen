@@ -11,7 +11,7 @@ i have no idea what i want to do with this but it generates simple images of pla
 ## getting started
 
 ```shell
-$ git clone https://github.com/andithemudkip/planet-gen
+$ git clone https://github.com/masket-bask/planet-gen
 $ cd planet-gen
 $ npm install
 $ npm start

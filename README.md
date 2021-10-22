@@ -2,10 +2,9 @@
 
 [ node.js ]
 
-i have no idea what i want to do with this but it generates simple images of planets
+This was the code I generated long back to produce the generative planets, later I have made certain changes to the code in order to create the version 2 of this this generative art work just for the purpose of zilliqa blockchain network.
 
-**the code is very spaghetti, i don't necessarily feel like fixing it**
-
+This recent version of the NFT is capable of producing much more clear and detailed images of crypto-planets.
 
 
 ## getting started

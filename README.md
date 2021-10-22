@@ -6,6 +6,8 @@ This was the code I generated long back to produce the generative planets, later
 
 This recent version of the NFT is capable of producing much more clear and detailed images of crypto-planets.
 
+You can see the latest version of the project  [**HERE.**](https://github.com/masket-bask/zilliqa-open-challenge)
+
 
 ## getting started
 

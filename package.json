@@ -1,0 +1,19 @@
+{
+  "name": "planetsgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "jimp": "^0.6.1",
+    "readline-sync": "^1.4.10",
+    "tumult": "^3.0.11",
+    "victor": "^1.1.0"
+  }
+}
